@@ -37,3 +37,4 @@ Find & Replace, DATEVALUE, VALUE, Data Validation
 The order of cleaning steps matters. 
 Trimming names before removing duplicates uncovered 20 extra duplicate rows that I would have missed. I also learned that TRIM and CLEAN don’t catch everything (line breaks and non-breaking spaces need SUBSTITUTE), and to document every decision, like leaving missing amounts blank instead of guessing.
 
+Note: This is a synthetic practice dataset created for learning purposes. All names, emails, phone numbers and orders are fictional and do not represent real people or businesses.
